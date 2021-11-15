@@ -1,3 +1,4 @@
+//KURS -1 Anlatımı
 console.log("Merhaba Kodlama.io")
 
 let dolarBugun = 9.30
@@ -25,3 +26,5 @@ console.log("</ul>")
 
 
 console.log(konutKredileri)
+
+
