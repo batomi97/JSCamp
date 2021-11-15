@@ -56,9 +56,9 @@ let findCountFriend = (number1, number2) => {
     total2 = findPositiveDividingNumbersTotal(number2)
 
     if(total1 == number2 && total2 == number1){
-        return "Arkadaş sayıdır"
+        return `${number1} ve ${number2} Arkadaş sayıdır`
     }else {
-        return "Arkadaş sayı değildir"
+        return `${number1} ve ${number2} Arkadaş sayı değildir`
     }
 
 }
